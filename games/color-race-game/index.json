@@ -1,0 +1,23 @@
+{
+    "title": "Color Race Game",
+    "description": "Set the background color before it's too late!",
+    "details": {
+      "intro": {
+        "text": "intro.md"
+      },
+      "steps": [
+        {
+          "title": "Let's play",
+          "text": "step1.md"
+        }
+      ],
+      "assets": {
+        "host01": [
+          {"file": "setup.yaml", "target": "/root", "chmod": "+w"}
+        ]
+      }
+    },
+    "backend": {
+      "imageid": "kubernetes-kubeadm-1node"
+    }
+  }
