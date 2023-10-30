@@ -8,13 +8,6 @@ In **Color Race Game**, you're presented with a unique task: change the backgrou
 
 Inspired by the intricacies of modern web challenges, **Color Race Game** tests not only your speed but also your precision in a playful environment.
 
-## How to Play
-
-1. **Start the Timer**: Once the game begins, a 60-second countdown is initiated. Time is ticking!
-2. **Read the Instructions**: The game will display the desired background color.
-3. **Set the Color**: Modify the background color to match the instructed hue.
-4. **Win or Lose**: Achieve the correct color within the time frame to win! But be cautious, if the time runs out before you match the color or if you attempt to cheat, it's game over.
-
 ## Features
 
 - **Dynamic Challenges**: Each game provides a dynamically determined color, guaranteeing a fresh challenge every round.
@@ -22,4 +15,4 @@ Inspired by the intricacies of modern web challenges, **Color Race Game** tests 
 
 ## Dive In!
 
-Ready to tackle this colorful challenge? It's not solely about quickness; accuracy and attentiveness are key. Best of luck, and may the swiftest color matcher prevail!
+Ready to tackle this colorful challenge? Best of luck, and may the swiftest color matcher prevail!
