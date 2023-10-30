@@ -3,7 +3,8 @@
     "description": "Set the background color before it's too late!",
     "details": {
       "intro": {
-        "text": "intro.md"
+        "text": "intro.md",
+        "background": "setup.sh"
       },
       "steps": [
         {
@@ -20,4 +21,4 @@
     "backend": {
       "imageid": "kubernetes-kubeadm-1node"
     }
-  }
+}
